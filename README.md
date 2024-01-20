@@ -103,7 +103,7 @@
 
 <div align="center">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NabongS2&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NabongS2&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
 </div>
     
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=140&section=footer&text=&fontSize=0" />
