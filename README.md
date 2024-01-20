@@ -21,7 +21,7 @@ Introduce <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animate
 
 <br><br>
 <h3><div align=center>
-Work</div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="25" height="25" /></h3>
+Work<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="25" height="25" /></div></h3>
 <div align=center>현재는 회사 기술연구소 AI서비스개발팀에서 풀스택 포지션 웹 개발자로 일하고 있습니다.</div>
 <div align=center>화면 기획부터 퍼블리싱, 프론트, 백엔드, DB 설계까지 담당하고 있습니다.</div>
 
@@ -37,7 +37,7 @@ About Me
 <br><br>
 
 <h3><div align=center>
-Tech</div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /></h3>
+Tech<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /></div></h3>
 <h4><div align=center>SKill</div></h4>
 
 <div align="center">
