@@ -97,6 +97,9 @@
 <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
 </div>
 <br>
+
+
+![nabongs's github stats](https://github-readme-stats.vercel.app/api?username=nabongS2&show_icons=true&theme=tokyonight)
     
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=140&section=footer&text=&fontSize=0" />
 <!--
