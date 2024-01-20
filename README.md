@@ -1,4 +1,5 @@
-### Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=240&section=header&text=Nanbong Github 👋 &fontSize=60" />
+
 
 <!--
 **NabongS2/NabongS2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
