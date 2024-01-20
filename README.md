@@ -26,7 +26,7 @@
 
 <h3><div align=center>📚 Tech</div></h3>
 <br>
-<h3><div align=center>Backend</div></h3>
+<h5><div align=center>SKill</div></h5>
 
 <div align="center">
 <!-- BACK -->
@@ -46,7 +46,7 @@
 
 <br>
 
-<h3><div align=center>Frontend</div></h3>
+<!-- <h3><div align=center>Frontend</div></h3> -->
 <div align="center">
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
@@ -56,6 +56,16 @@
 <img src="https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white">
 </div>
 
+<br>
+<h3><div align=center>Other</div></h3>
+
+<div align="center">
+<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white">
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+</div>
 <br>
 
 <h3><div align=center>Design</div></h3>
@@ -71,16 +81,7 @@
 </div>
 <br>
 
-<h3><div align=center>Other</div></h3>
 
-<div align="center">
-<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-<br>
-<img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white">
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-</div>
-<br>
 
 <h3><div align=center>Studing~✏️</div></h3>
 
