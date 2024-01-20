@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=240&section=header&text=Nanbong%20Github%20👋&fontSize=60" />
 
-[header]Nanbong Github 👋
+# Nanbong Github 👋
 <h3><div align=center>🙌 Introduce</div></h3>
 
 <div align=center>안녕하세요~ JAVA WEB 주니어 개발자 입니다.</div>
