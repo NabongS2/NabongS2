@@ -8,7 +8,7 @@
 <h3><div align=center>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Raising%20Hands.png" alt="Raising Hands" width="25" height="25" />
 Introduce</div>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Raising%20Hands.png" alt="Raising Hands" width="25" height="25" /></h3>
+</h3>
 
 <div align=center>안녕하세요~ JAVA WEB 주니어 개발자 입니다.</div>
 <div align=center>전반적인 웹 개발 FrontEnd, BackEnd, Database를 공부 중 입니다.</div>
@@ -23,7 +23,6 @@ Introduce</div>
 <h3><div align=center>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="25" height="25" />
 Work</div>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="25" height="25" /></h3>
 <div align=center>현재는 회사 기술연구소 AI서비스개발팀에서 풀스택 포지션 웹 개발자로 일하고 있습니다.</div>
 <div align=center>화면 기획부터 퍼블리싱, 프론트, 백엔드, DB 설계까지 담당하고 있습니다.</div>
 
@@ -41,8 +40,7 @@ About Me
 
 <h3><div align=center>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" />
-Tech</div>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /></h3>
+Tech</div></h3>
 
 <h4><div align=center>SKill</div></h4>
 
