@@ -1,7 +1,7 @@
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=240&section=header&text=Nanbong%20Github%20👋&fontSize=60" /> -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=&fontSize=60" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=&fontSize=0" />
 
-# <div align=center>Nanbong Github 👋</div>
+<h1><div align=center>Nanbong Github 👋</div></h1>
 <br>
 <h3><div align=center>🙌 Introduce</div></h3>
 
