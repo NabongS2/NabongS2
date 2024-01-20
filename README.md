@@ -1,7 +1,9 @@
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=240&section=header&text=Nanbong%20Github%20👋&fontSize=60" /> -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=140&section=header&text=&fontSize=0" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=#ffc2cd&height=140&section=header&text=&fontSize=0" />
 
-<h1><div align=center>Nanbong Github <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Growing%20Heart.png" alt="Growing Heart" width="25" height="25" /></div></h1>
+<h1><div align=center><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Growing%20Heart.png" alt="Growing Heart" width="25" height="25" />
+    Nanbong Github
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Growing%20Heart.png" alt="Growing Heart" width="25" height="25" /></div></h1>
 <br>
 <h3><div align=center>🙌 Introduce</div></h3>
 
@@ -106,7 +108,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NabongS2&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
 </div>
     
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=140&section=footer&text=&fontSize=0" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=#ffc2cd&height=140&section=footer&text=&fontSize=0" />
 <!--
 **NabongS2/NabongS2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
