@@ -1,12 +1,12 @@
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=240&section=header&text=Nanbong%20Github%20👋&fontSize=60" /> -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=140&section=header&text=&fontSize=0" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=color=0:ffc2cd,100:ff6289&height=140&section=header&text=&fontSize=0" />
 
-<h1><div align=center><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Growing%20Heart.png" alt="Growing Heart" width="25" height="25" />
-    Nanbong Github
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Growing%20Heart.png" alt="Growing Heart" width="25" height="25" /></div></h1>
+<h1><div align=center><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Growing%20Heart.png" alt="Growing Heart" width="30" height="30" />
+Nanbong Github
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Growing%20Heart.png" alt="Growing Heart" width="30" height="30" /></div></h1>
 <br>
 <h3><div align=center>
-Introduce <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Raising%20Hands.png" alt="Raising Hands" width="25" height="25" />
+Introduce <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Raising%20Hands.png" alt="Raising Hands" width="20" height="20" />
 </div>
 </h3>
 
@@ -21,14 +21,14 @@ Introduce <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animate
 
 <br><br>
 <h3><div align=center>
-Work<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="25" height="25" /></div></h3>
+Work <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="20" height="20" /></div></h3>
 <div align=center>현재는 회사 기술연구소 AI서비스개발팀에서 풀스택 포지션 웹 개발자로 일하고 있습니다.</div>
 <div align=center>화면 기획부터 퍼블리싱, 프론트, 백엔드, DB 설계까지 담당하고 있습니다.</div>
 
 <br><br>
 <h3><div align=center>
 About Me
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Teddy%20Bear.png" alt="Teddy Bear" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Teddy%20Bear.png" alt="Teddy Bear" width="20" height="20" />
 </div></h3>
 <div align=center>사교적인 성격으로 동료들과 같이 협업을 하는 것을 좋아하고</div>
 <div align=center>기술적 향상을 위해 자기 개발 하는 것을 좋아합니다.</div>
@@ -37,7 +37,8 @@ About Me
 <br><br>
 
 <h3><div align=center>
-Tech<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /></div></h3>
+Tech <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="20" height="20" /></div></h3>
+<br>
 <h4><div align=center>SKill</div></h4>
 
 <div align="center">
@@ -80,7 +81,7 @@ Tech<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Flue
 </div>
 <br>
 
-<h4><div align=center>Design</div></h4>
+<!-- <h4><div align=center>Design</div></h4> -->
 
 <div align="center">
 <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white">
@@ -95,7 +96,9 @@ Tech<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Flue
 
 
 
-<h4><div align=center>Studing~✏️</div></h4>
+<h4><div align=center>Studing~
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Book.png" alt="Open Book" width="20" height="20" />
+</div></h4>
 
 <div align="center">
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
@@ -109,25 +112,10 @@ Tech<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Flue
 
 <br><br><br><br>
 <h3 align="center">My Github Stats
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Heart%20on%20Fire.png" alt="Heart on Fire" width="25" height="25" /></h3>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Heart%20on%20Fire.png" alt="Heart on Fire" width="20" height="20" /></h3>
 <div align="center">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NabongS2&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
-    
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=140&section=footer&text=&fontSize=0" />
-<!--
-**NabongS2/NabongS2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=color=0:ffc2cd,100:ff6289&height=140&section=footer&text=&fontSize=0" />
