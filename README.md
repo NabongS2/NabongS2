@@ -99,9 +99,9 @@
 <br>
 
 <br><br><br><br>
-
-![nabongs's github stats](https://github-readme-stats.vercel.app/api?username=nabongS2&show_icons=true&theme=ambient_gradient)
 <div align="center">
+[![nabongs's github stats](https://github-readme-stats.vercel.app/api?username=nabongS2&show_icons=true&theme=ambient_gradient)]
+
 </div>
     
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=140&section=footer&text=&fontSize=0" />
