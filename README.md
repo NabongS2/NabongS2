@@ -98,7 +98,7 @@
 </div>
 <br>
     
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=140&section=footer&text=&fontSize=0" />
 <!--
 **NabongS2/NabongS2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
