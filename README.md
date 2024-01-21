@@ -115,6 +115,8 @@ Tech <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Flu
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Heart%20on%20Fire.png" alt="Heart on Fire" width="20" height="20" /></h3>
 <div align="center">
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=delay-100&layout=compact)](https://github.com/delay-100/github-readme-stats)
+<br><br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NabongS2&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
