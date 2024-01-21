@@ -14,9 +14,10 @@ Introduce <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animate
 <div align=center>전반적인 웹 개발 FrontEnd, BackEnd, Database를 공부 중 입니다.</div>
 <br><br>
 <div align=center>
+<!--
 <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-<!-- <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"> -->
+ <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"> -->
 </div>
 
 <br><br>
