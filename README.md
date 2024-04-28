@@ -112,7 +112,7 @@ Tech <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Flu
 <br>
 
 <br><br><br><br>
-<h3 align="center">My Github Stats
+<h3 align="center">My Github Status
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Heart%20on%20Fire.png" alt="Heart on Fire" width="20" height="20" /></h3>
 <div align="center">
 
