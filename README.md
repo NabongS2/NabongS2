@@ -1,124 +1,93 @@
-<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=240&section=header&text=Nanbong%20Github%20👋&fontSize=60" /> -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=color=0:ffc2cd,100:ff6289&height=140&section=header&text=&fontSize=0" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffc2cd,100:ff6289&height=140&section=header&text=&fontSize=0" />
+
+<p align="center">
+  <b>한국어</b> | <a href="./README.en.md">English</a>
+</p>
 
 <h1><div align=center><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Growing%20Heart.png" alt="Growing Heart" width="30" height="30" />
-Nanbong Github
+Nabong Github
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Growing%20Heart.png" alt="Growing Heart" width="30" height="30" /></div></h1>
 <br>
+
 <h3><div align=center>
 Introduce <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Raising%20Hands.png" alt="Raising Hands" width="20" height="20" />
-</div>
-</h3>
+</div></h3>
 
-<div align=center>안녕하세요~ JAVA WEB 주니어 개발자 입니다.</div>
-<div align=center>전반적인 웹 개발 FrontEnd, BackEnd, Database를 공부 중 입니다.</div>
+<div align=center>안녕하세요, 디자인에서 출발해 풀스택으로 성장한 웹 개발자 이나현입니다.</div>
+<div align=center>복잡한 운영 로직을 직관적인 화면과 안정적인 구조로 풀어내는 일을 좋아합니다.</div>
+<br>
 
 <div align=center>
-<!--
-<img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
- <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"> -->
+<a href="https://nabongs2.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-FF6289?style=flat-square&logo=googlechrome&logoColor=white"></a>
+<a href="https://nabongs2.github.io/"><img src="https://img.shields.io/badge/Tech%20Blog-17191E?style=flat-square&logo=astro&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/nabongs2"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
 </div>
 
 <br><br>
 <h3><div align=center>
 Work <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="20" height="20" /></div></h3>
-<div align=center>현재는 회사 기술연구소 AI서비스개발팀에서 풀스택 포지션 웹 개발자로 일하고 있습니다.</div>
-<div align=center>화면 기획부터 퍼블리싱, 프론트, 백엔드, DB 설계까지 담당하고 있습니다.</div>
+
+<div align=center>기술연구소 AI 서비스 개발팀에서 AICC 콜봇 서비스의 풀스택 개발을 맡고 있습니다.</div>
+<div align=center>화면 설계부터 프론트엔드 · 백엔드 · 데이터 구조 설계, 배포 환경 구성과 운영 배포까지 담당합니다.</div>
+<br>
+
+<div align=center>
+
+| 프로젝트 | 내용 |
+| :-- | :-- |
+| 🧩 **시나리오 빌더** | React Flow 기반으로 재구축 · 작성 시간 약 40% 단축, 작성 오류 90% 이상 감소 |
+| 📊 **운영 어드민 (WebAdmin)** | 운영 대시보드 · Sankey 사용자 여정 분석 · RabbitMQ 설정 전파 · SSE 알람 |
+| 🎙️ **STT 운영 시스템** | 음성 인식 테스트(MIC / FILE / 실시간) · 알람 파이프라인 · STT 사전 설정 |
+| 📝 **LLM 설문 플랫폼** | 설문 · LLM 응대 설정 편집기, 문항 분기와 JSON 가져오기 · 내보내기 |
+| 📦 **모노레포 · 공유 모듈** | pnpm 모노레포로 여러 관리 앱 통합, 화면 단위 공유 모듈 분리 |
+| ☎️ **음성 게이트웨이 · TTS** | 인수인계 후 유지보수와 신규 기능 개발 |
+
+</div>
 
 <br><br>
 <h3><div align=center>
 About Me
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Teddy%20Bear.png" alt="Teddy Bear" width="20" height="20" />
 </div></h3>
-<div align=center>사교적인 성격으로 동료들과 같이 협업을 하는 것을 좋아하고</div>
-<div align=center>기술적 향상을 위해 자기 개발 하는 것을 좋아합니다.</div>
-
+<div align=center>기능을 만들기 전에 먼저 묻습니다.</div>
+<div align=center>이 화면을 쓰는 사람은 무엇을 가장 먼저 봐야 하는지, 그 데이터는 어떤 구조여야 나중에 바꾸기 쉬운지.</div>
+<div align=center>동료들과 함께 협업하고, 꾸준히 공부하며 성장하는 것을 좋아합니다.</div>
 
 <br><br>
 
 <h3><div align=center>
 Tech <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="20" height="20" /></div></h3>
-<br>
-<h4><div align=center>SKill</div></h4>
 
-<div align="center">
-<!-- BACK -->
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
-<img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-<br>
-<!-- DB -->
-<img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
-<img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white"> 
-<br>
-<img src="https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black">
-<img src="https://img.shields.io/badge/apachemaven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=#C71A36">
-<img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
-<br>
-</div>
+<h4><div align=center>Frontend</div></h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,ts,js,styledcomponents&perline=8" />
+</p>
 
-<br>
+<h4><div align=center>Backend · Data</div></h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,redis,rabbitmq&perline=8" />
+</p>
 
-<!-- <h3><div align=center>Frontend</div></h3> -->
-<div align="center">
-<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
-<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
-<img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-<br>
-<img src="https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white">
-</div>
+<h4><div align=center>DevOps · Tools</div></h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,nginx,linux,gitlab,pnpm,vite,vitest&perline=8" />
+</p>
 
-<br>
-<h4><div align=center>Other</div></h4>
+<h4><div align=center>Design</div></h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai&perline=8" />
+</p>
 
-<div align="center">
-<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-<br>
-<img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white">
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-</div>
-<br>
+<div align=center><sub>+ React Flow · Zustand · Ant Design · JPA · MyBatis · MariaDB · Oracle · Storybook</sub></div>
 
-<!-- <h4><div align=center>Design</div></h4> -->
-
-<div align="center">
-<img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white">
-<img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">
-<img src="https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=white">
-<br>
-<img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6">
-<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
-<img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white">
-</div>
-<br>
-
-
-
-<h4><div align=center>Studing~
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Book.png" alt="Open Book" width="20" height="20" />
-</div></h4>
-
-<div align="center">
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-<!-- <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"> -->
-<!-- <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"> -->
-<br>
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
-</div>
-<br>
-
-<br><br><br><br>
-<h3 align="center">My Github Status
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Heart%20on%20Fire.png" alt="Heart on Fire" width="20" height="20" /></h3>
-<div align="center">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NabongS2&layout=compact&theme=graywhite)](https://github.com/delay-100/github-readme-stats)
 <br><br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NabongS2&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+<h3><div align=center>
+Certifications <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Book.png" alt="Open Book" width="20" height="20" />
+</div></h3>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=color=0:ffc2cd,100:ff6289&height=140&section=footer&text=&fontSize=0" />
+<div align=center>정보처리기사 · 리눅스마스터 2급 · SQLD · 웹디자인기능사 · 컴퓨터그래픽스운용기능사</div>
+<div align=center>한국방송통신대학교 컴퓨터과학과 졸업 (2026.02)</div>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffc2cd,100:ff6289&height=140&section=footer&text=&fontSize=0" />
